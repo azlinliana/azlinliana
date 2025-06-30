@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**azlinliana/azlinliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img src="https://c.tenor.com/kV23DiWJJasAAAAd/tenor.gif" alt="Hello GIF" />
+    </td>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <strong>refining my backend skills</strong></li>
+        <li>🌱 I’m currently learning <strong>Node.js</strong></li>
+        <li>📫 
+          LinkedIn: <a href="https://www.linkedin.com/in/azlinliana" target="_blank" rel="noopener noreferrer">azlinliana</a> •
+          Email: <a href="mailto:azlinliana.adlan@gmail.com" target="_blank" rel="noopener noreferrer">azlinliana.adlan@gmail.com</a>
+        </li>
+        <li>⚡ Fun fact: <strong>I take my time building things — because solid, reliable code is always worth it 🪄</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
